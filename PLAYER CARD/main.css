@@ -1,0 +1,87 @@
+body {
+    background-color: darkgray;
+}
+
+/* fundo principal */
+
+.fundo {
+    width: 500px;
+    height: 722px;
+    background-color: #252440;
+    position: relative;
+    left: 450px;
+}
+
+/* fundo player card */
+
+.player_card {
+    width: 450px;
+    height: 682px;
+    background-color: #2d2c55;
+    border-radius: 5%;
+    position: absolute;
+    top: 28px;
+    left: 485px;
+}
+
+/* itens do fundo do player card */
+
+.titulo_player_card {
+    color: white;
+    width: 300px;
+    font-family: 'press start 2p', cursive;
+    font-size: x-large;
+    position: absolute;
+    left: 30px;
+    top: 15px;
+}
+
+.trofeu_player_card {
+    position: absolute;
+    left: 330px;
+}
+
+/* fundo level up */
+
+.level_up {
+    width: 450px;
+    height: 602px;
+    background-color: #2f2c79;
+    border-radius: 0 0 30px 30px;
+    position: absolute;
+    top: 115px;
+    left: 485px;
+}
+
+/* itens do fundo level up */
+
+.titulo_missao {
+    color: gold;
+    width: 440px;
+    font-family: 'press start 2p', cursive;
+    font-size: x-large;
+    position: absolute;
+    left: 25px;
+    top: 2px;
+}
+
+.titulo_level_up {
+    color: gold;
+    width: 440px;
+    font-family: 'press start 2p', cursive;
+    font-size: xx-large;
+    position: absolute;
+    left: 80px;
+    top: 35px;
+}
+
+/* fundo informações do jogador */
+
+.informaçoes {
+    width: 450px;
+    height: 460px;
+    background-color: whitesmoke;
+    position: absolute;
+    top: 217px;
+    left: 485px;
+}
